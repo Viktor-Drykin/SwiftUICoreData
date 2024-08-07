@@ -2,7 +2,7 @@
 //  SwiftUICoreDataTests.swift
 //  SwiftUICoreDataTests
 //
-//  Created by DataArt Viktor Drykin on 02.08.2024.
+//  Created by  Viktor Drykin on 02.08.2024.
 //
 
 import XCTest
